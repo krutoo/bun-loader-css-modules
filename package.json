@@ -1,0 +1,11 @@
+{
+  "name": "bun-loader-css-modules",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.5.0"
+  },
+  "dependencies": {
+    "lightningcss": "^1.19.0"
+  }
+}

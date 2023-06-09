@@ -1,0 +1,8 @@
+@use "node_modules/@sima-land/ui-nucleons/colors";
+
+.hello {
+  background: #123;
+  .world {
+    background: colors.$basic-gray12;
+  }
+}

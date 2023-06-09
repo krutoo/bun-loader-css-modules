@@ -1,4 +1,3 @@
-import "./plugin";
-import styles from "./test.module.css";
+import styles from "./test.module.scss";
 
 console.log(styles);
